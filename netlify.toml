@@ -1,0 +1,4 @@
+[build]
+  publish = "docs"
+
+# Add project-specific build commands only if this application requires them.
